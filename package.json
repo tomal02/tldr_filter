@@ -2,7 +2,7 @@
   "name": "tldr_filter",
   "version": "1.0.0",
   "description": "A small api to filter out the sponsor blocks from the TLDR newsletter",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
