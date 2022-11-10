@@ -3,7 +3,8 @@ const app = express();
 const port = 3000;
 
 app.post('/', (req, res) => {
-  res.send(req.email);
+  console.log(req.body);
+  res.send(req.query.email);
 });
 
 app.get('/', (req, res) => {
