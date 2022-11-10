@@ -1,0 +1,22 @@
+{
+  "name": "tldr_filter",
+  "version": "1.0.0",
+  "description": "A small api to filter out the sponsor blocks from the TLDR newsletter",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomal02/tldr_filter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomal02/tldr_filter/issues"
+  },
+  "homepage": "https://github.com/tomal02/tldr_filter#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
